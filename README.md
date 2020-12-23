@@ -1,6 +1,6 @@
-# Calidad del aire en corredor Mi Macro Periferico Guadalajara
+# Reporte de impacto medioambiental en el AMG
 
-La idea de este repositorio es generar una línea base para comparar la calidad del aire en las estaciones de Mi Macro Periférico, como parte del proyecto [PIP para una ciudad del futuro.](https://www.facebook.com/pipciudadfuturo/)
+La idea de este repositorio es generar una línea base para comparar la calidad del aire, emisiones, y potencial solar en las inmediaciones de las estaciones de Mi Macro Periférico, como parte del proyecto [PIP para una ciudad del futuro.](www.pipciudadfuturo.com / https://www.facebook.com/pipciudadfuturo/)
 
 ## Memoria del proceso
 
